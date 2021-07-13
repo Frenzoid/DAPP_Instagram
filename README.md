@@ -1,12 +1,22 @@
 # Decentragram
 
+An instagram clone that allows eth tiping to the post authors, made with blockchain, ethereum, solidity, web3, truffle, ganache and react.
+
+Meant to learn blockchain techonologies.
+
+<img src="./assets/scrsht.png">
+
 ## 🔧 Project Diagram:
 ![Project Diagram](https://i.gyazo.com/e7fa5d05ef7806419b4897ecc668a045.png)
 
 ## How to run.
 
-First, user `npm` to install depencencies, use the following command `npm i`.
+1) Install the following dependencies: Node, truffle, ganache.
+2) Make sure your `truffle-config.js` is setted up with your Ganache network.
+3) Execute the command: `npm i`
+4) Execute the command: `truffle migrate --reset`
+5) Execute the command: `npm start`
 
-Then use the scripts defined in `package.json` to run the frontent react app.
+## Testing.
 
-And then use `truffle` to deploy the contracts to your blockchain network, in this case `ganache`, use the following command `truffle migrate --reset` and `truffle compile`.
+- Execute the command `truffle test` to run the tests.
