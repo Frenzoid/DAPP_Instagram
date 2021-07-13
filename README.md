@@ -2,7 +2,7 @@
 
 An instagram clone that allows eth tiping to the post authors, made with blockchain, ethereum, solidity, web3, ipfs, truffle, ganache and react.
 
-Meant to learn blockchain techonologies.
+Meant to learn blockchain technologies.
 
 <img src="./assets/scrsht.png">
 
