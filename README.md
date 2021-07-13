@@ -1,6 +1,6 @@
 # Decentragram
 
-An instagram clone that allows eth tiping to the post authors, made with blockchain, ethereum, solidity, web3, truffle, ganache and react.
+An instagram clone that allows eth tiping to the post authors, made with blockchain, ethereum, solidity, web3, ipfs, truffle, ganache and react.
 
 Meant to learn blockchain techonologies.
 
